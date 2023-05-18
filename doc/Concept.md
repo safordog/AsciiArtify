@@ -22,3 +22,6 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 |   _possibility of using Podman_  |      yes (experimental)        |          yes         |                  yes                  |
 |        _stars on GitHub_         |              25.8k             |         11.1k        |                  4.1k                 |
 |      _mounting local code_       |               yes              |           no         |                  yes                  |
+
+**K3D** short demo video:
+[![asciicast](https://asciinema.org/a/583149.svg)](https://asciinema.org/a/583149)
