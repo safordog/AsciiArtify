@@ -2,9 +2,9 @@
 
 **Minikube** is a tool that sets up a Kubernetes environment on a local PC or laptop. It’s technically a Kubernetes distribution, but because it addresses a different type of use case than most other distributions (like Rancher, OpenShift, and EKS), it’s more common to hear folks refer to it as a tool rather than a distribution.
 Minikube supports all of the major operating systems – Windows, Linux, and macOS. (It doesn’t run on mobile devices, alas.)
-**k3d** is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker.
+**K3d** is a lightweight wrapper to run k3s (Rancher Lab’s minimal Kubernetes distribution) in docker.
 k3d makes it very easy to create single- and multi-node k3s clusters in docker, e.g. for local development on Kubernetes.
-**kind** is a tool for running local Kubernetes clusters using Docker container “nodes”.
+**Kind** is a tool for running local Kubernetes clusters using Docker container “nodes”.
 kind was primarily designed for testing Kubernetes itself, but may be used for local development or CI.
 
 |             **key**              |          **minikube**          |       **kind**       |                **k3d**                |
