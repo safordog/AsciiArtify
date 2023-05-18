@@ -24,4 +24,4 @@ kind was primarily designed for testing Kubernetes itself, but may be used for l
 |      _mounting local code_       |               yes              |           no         |                  yes                  |
 
 **K3D** short demo video:
-<script async id="asciicast-583149" src="https://asciinema.org/a/583149.js"></script>
+[![asciicast](https://asciinema.org/a/583149.svg)](https://asciinema.org/a/583149)
