@@ -10,3 +10,6 @@ _FYI: you need to use https._
 Please use the credentials:<br />
 log: admin<br />
 psw: cQVB8EyneyBHd3V4
+
+ArgoCD official demo link:<br />
+https://argo-cd.readthedocs.io/en/stable/
